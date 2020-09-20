@@ -20,3 +20,8 @@ Requirements
 4) Tensorflow 2.0
 5) matplotlib
 6) seaborn
+
+RESULTS
+----------------------
+Autoencoder model was trained for 100 epochs and loss distribution was plotted to obtain a suitable threshold value (0.65) for identifying an anomaly. Test loss ~ 0.098
+
